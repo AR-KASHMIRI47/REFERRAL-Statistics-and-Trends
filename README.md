@@ -6,9 +6,9 @@ This project explores the World Bank Development Indicators dataset, focusing on
 
 ## Files Included
 
-* `data_analysis.py`: Python script for data loading, cleaning, analysis, and visualization.
+* `Statistics and Trends.ipynb`: Python script for data loading, cleaning, analysis, and visualization.
 * `world_bank_development_indicators.csv`: The dataset used for this analysis.
-* `report.pdf`: Detailed report containing analysis, visualizations, and conclusions.
+* `Statistics and Trends.pdf`: Detailed report containing analysis, visualizations, and conclusions.
 
 ## Project Steps
 
@@ -30,11 +30,7 @@ This project explores the World Bank Development Indicators dataset, focusing on
    ```bash
    pip install pandas matplotlib seaborn
    ```
-3. Run the data analysis script:
-
-   ```bash
-   python data_analysis.py
-   ```
+3. Run the jupyter notebook script:
 
 ## Author
 
