@@ -34,6 +34,6 @@ This project explores the World Bank Development Indicators dataset, focusing on
 
 ## Author
 
-Name: Your Abdul Rehman
+Name: Abdul Rehman
 Student Number: 23113350
 GitHub Repository: https://github.com/AR-KASHMIRI47/REFERRAL-Statistics-and-Trends.git
